@@ -1,0 +1,21 @@
+Kudos to Mark A. Galang for providing the samples for free.
+
+I edited the key mapping of the gongs according to their concert pitch.
+
+Kulintang
+E4 F#4 A4 B4 C#5 E5 F#5 G#5
+
+Gandingan
+C3 C#3 F3 F#3
+
+Agung
+E2 A2
+
+Dabakan (Pitch C#3)
+C6 C#6 D6
+
+Tongatong
+Eb6 to C7
+
+Tongatong closed (actual pitches)
+D3 F3 G3 A3 C4 
