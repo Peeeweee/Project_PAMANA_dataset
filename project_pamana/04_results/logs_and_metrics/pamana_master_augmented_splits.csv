@@ -1,0 +1,468 @@
+filepath,instrument_label,group,split,augmentation_type,original_file
+project_pamana\01_data\raw_audio\Agung_Gong_01_den_E1(02).wav,agung,Agung Gong 01 den E1,TEST,,
+project_pamana\01_data\raw_audio\Agung_Gong_01_den_E1(03).wav,agung,Agung Gong 01 den E1,TEST,,
+project_pamana\01_data\raw_audio\Agung_Gong_01_den_E1(04).wav,agung,Agung Gong 01 den E1,TEST,,
+project_pamana\01_data\raw_audio\Agung_Gong_01_den_E1(05).wav,agung,Agung Gong 01 den E1,TEST,,
+project_pamana\01_data\raw_audio\Agung_Gong_01_den_E1(06).wav,agung,Agung Gong 01 den E1,TEST,,
+project_pamana\01_data\raw_audio\Agung_Gong_01_den_E1(07).wav,agung,Agung Gong 01 den E1,TEST,,
+project_pamana\01_data\raw_audio\Agung_Gong_01_den_E1(08).wav,agung,Agung Gong 01 den E1,TEST,,
+project_pamana\01_data\raw_audio\Agung_Gong_01_den_E1(09).wav,agung,Agung Gong 01 den E1,TEST,,
+project_pamana\01_data\raw_audio\Agung_Gong_01_den_E1(10).wav,agung,Agung Gong 01 den E1,TEST,,
+project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,,
+project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,,
+project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(04).wav,agung,Agung Gong 02 den A1-23,TRAIN,,
+project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(05).wav,agung,Agung Gong 02 den A1-23,TRAIN,,
+project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(06).wav,agung,Agung Gong 02 den A1-23,TRAIN,,
+project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(07).wav,agung,Agung Gong 02 den A1-23,TRAIN,,
+project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(08).wav,agung,Agung Gong 02 den A1-23,TRAIN,,
+project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,,
+project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(11).wav,agung,Agung Gong 02 den A1-23,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(2).wav,dabakan,Dabakan Drum Head den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(3).wav,dabakan,Dabakan Drum Head den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(4).wav,dabakan,Dabakan Drum Head den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(5).wav,dabakan,Dabakan Drum Head den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(6).wav,dabakan,Dabakan Drum Head den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(7).wav,dabakan,Dabakan Drum Head den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(8).wav,dabakan,Dabakan Drum Head den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(9).wav,dabakan,Dabakan Drum Head den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Hits_den(2).wav,dabakan,Dabakan Hits den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Hits_den(3).wav,dabakan,Dabakan Hits den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Hits_den(4).wav,dabakan,Dabakan Hits den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Hits_den(5).wav,dabakan,Dabakan Hits den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Hits_den(6).wav,dabakan,Dabakan Hits den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Hits_den(7).wav,dabakan,Dabakan Hits den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(2).wav,dabakan,Dabakan Shell Hit den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(3).wav,dabakan,Dabakan Shell Hit den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(4).wav,dabakan,Dabakan Shell Hit den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(5).wav,dabakan,Dabakan Shell Hit den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(6).wav,dabakan,Dabakan Shell Hit den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(7).wav,dabakan,Dabakan Shell Hit den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(8).wav,dabakan,Dabakan Shell Hit den,TRAIN,,
+project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(9).wav,dabakan,Dabakan Shell Hit den,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(2).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(3).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(4).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(5).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(6).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(7).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(8).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(2).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(3).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(4).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(5).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(6).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(7).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(8).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(02).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(03).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(04).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(05).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(06).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(07).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(08).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(09).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(10).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(11).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_04_den_F#2-15(1).wav,gandingan,Gandingan Gong 04 den F#2-15,TEST,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_04_den_F#2-15(2).wav,gandingan,Gandingan Gong 04 den F#2-15,TEST,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_04_den_F#2-15(3).wav,gandingan,Gandingan Gong 04 den F#2-15,TEST,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_04_den_F#2-15(4).wav,gandingan,Gandingan Gong 04 den F#2-15,TEST,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_04_den_F#2-15(5).wav,gandingan,Gandingan Gong 04 den F#2-15,TEST,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_04_den_F#2-15(6).wav,gandingan,Gandingan Gong 04 den F#2-15,TEST,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_04_den_F#2-15(7).wav,gandingan,Gandingan Gong 04 den F#2-15,TEST,,
+project_pamana\01_data\raw_audio\Gandingan_Gong_04_den_F#2-15(8).wav,gandingan,Gandingan Gong 04 den F#2-15,TEST,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_01_den(2).wav,kulintang,Kulintang Gong 01 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_01_den(3).wav,kulintang,Kulintang Gong 01 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_01_den(4).wav,kulintang,Kulintang Gong 01 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_01_den(5).wav,kulintang,Kulintang Gong 01 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_01_den(6).wav,kulintang,Kulintang Gong 01 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_01_den(7).wav,kulintang,Kulintang Gong 01 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_01_den(8).wav,kulintang,Kulintang Gong 01 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(2).wav,kulintang,Kulintang Gong 02 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(3).wav,kulintang,Kulintang Gong 02 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(4).wav,kulintang,Kulintang Gong 02 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(5).wav,kulintang,Kulintang Gong 02 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(6).wav,kulintang,Kulintang Gong 02 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(7).wav,kulintang,Kulintang Gong 02 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(8).wav,kulintang,Kulintang Gong 02 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(9).wav,kulintang,Kulintang Gong 02 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_03_den(2).wav,kulintang,Kulintang Gong 03 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_03_den(3).wav,kulintang,Kulintang Gong 03 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_03_den(4).wav,kulintang,Kulintang Gong 03 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_03_den(5).wav,kulintang,Kulintang Gong 03 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_03_den(6).wav,kulintang,Kulintang Gong 03 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_03_den(7).wav,kulintang,Kulintang Gong 03 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_03_den(8).wav,kulintang,Kulintang Gong 03 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_04_den(2).wav,kulintang,Kulintang Gong 04 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_04_den(3).wav,kulintang,Kulintang Gong 04 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_04_den(4).wav,kulintang,Kulintang Gong 04 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_04_den(5).wav,kulintang,Kulintang Gong 04 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_04_den(6).wav,kulintang,Kulintang Gong 04 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_04_den(7).wav,kulintang,Kulintang Gong 04 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_04_den(8).wav,kulintang,Kulintang Gong 04 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_05_den(2).wav,kulintang,Kulintang Gong 05 den,TEST,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_05_den(3).wav,kulintang,Kulintang Gong 05 den,TEST,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_05_den(4).wav,kulintang,Kulintang Gong 05 den,TEST,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_05_den(5).wav,kulintang,Kulintang Gong 05 den,TEST,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_05_den(6).wav,kulintang,Kulintang Gong 05 den,TEST,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_05_den(7).wav,kulintang,Kulintang Gong 05 den,TEST,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_05_den(8).wav,kulintang,Kulintang Gong 05 den,TEST,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(2).wav,kulintang,Kulintang Gong 06 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(3).wav,kulintang,Kulintang Gong 06 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(4).wav,kulintang,Kulintang Gong 06 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(5).wav,kulintang,Kulintang Gong 06 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(6).wav,kulintang,Kulintang Gong 06 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(7).wav,kulintang,Kulintang Gong 06 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(8).wav,kulintang,Kulintang Gong 06 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(2).wav,kulintang,Kulintang Gong 07 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(3).wav,kulintang,Kulintang Gong 07 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(4).wav,kulintang,Kulintang Gong 07 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(5).wav,kulintang,Kulintang Gong 07 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(6).wav,kulintang,Kulintang Gong 07 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(7).wav,kulintang,Kulintang Gong 07 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(8).wav,kulintang,Kulintang Gong 07 den,TRAIN,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_08_den(2).wav,kulintang,Kulintang Gong 08 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_08_den(3).wav,kulintang,Kulintang Gong 08 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_08_den(4).wav,kulintang,Kulintang Gong 08 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_08_den(5).wav,kulintang,Kulintang Gong 08 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_08_den(6).wav,kulintang,Kulintang Gong 08 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Kulintang_Gong_08_den(7).wav,kulintang,Kulintang Gong 08 den,VALIDATION,,
+project_pamana\01_data\raw_audio\Tongatong_01_Closed_den(2).wav,tongatong,Tongatong 01 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_01_Closed_den(3).wav,tongatong,Tongatong 01 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_01_Closed_den(4).wav,tongatong,Tongatong 01 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_01_Closed_den(5).wav,tongatong,Tongatong 01 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_01_Closed_den(6).wav,tongatong,Tongatong 01 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_01_Closed_den(7).wav,tongatong,Tongatong 01 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_01_Closed_den(8).wav,tongatong,Tongatong 01 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_01_Open_den(2).wav,tongatong,Tongatong 01 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_01_Open_den(3).wav,tongatong,Tongatong 01 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_01_Open_den(4).wav,tongatong,Tongatong 01 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_01_Open_den(5).wav,tongatong,Tongatong 01 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_01_Open_den(6).wav,tongatong,Tongatong 01 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_01_Open_den(7).wav,tongatong,Tongatong 01 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(02).wav,tongatong,Tongatong 02 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(03).wav,tongatong,Tongatong 02 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(04).wav,tongatong,Tongatong 02 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(05).wav,tongatong,Tongatong 02 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(06).wav,tongatong,Tongatong 02 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(07).wav,tongatong,Tongatong 02 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(08).wav,tongatong,Tongatong 02 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(09).wav,tongatong,Tongatong 02 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(10).wav,tongatong,Tongatong 02 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Open_den(2).wav,tongatong,Tongatong 02 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Open_den(3).wav,tongatong,Tongatong 02 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Open_den(4).wav,tongatong,Tongatong 02 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Open_den(5).wav,tongatong,Tongatong 02 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Open_den(6).wav,tongatong,Tongatong 02 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Open_den(7).wav,tongatong,Tongatong 02 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_02_Open_den(8).wav,tongatong,Tongatong 02 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_03_Closed_den(02).wav,tongatong,Tongatong 03 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_03_Closed_den(03).wav,tongatong,Tongatong 03 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_03_Closed_den(04).wav,tongatong,Tongatong 03 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_03_Closed_den(05).wav,tongatong,Tongatong 03 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_03_Closed_den(06).wav,tongatong,Tongatong 03 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_03_Closed_den(07).wav,tongatong,Tongatong 03 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_03_Closed_den(08).wav,tongatong,Tongatong 03 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_03_Closed_den(09).wav,tongatong,Tongatong 03 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_03_Closed_den(10).wav,tongatong,Tongatong 03 Closed den,TEST,,
+project_pamana\01_data\raw_audio\Tongatong_03_Open_den(2).wav,tongatong,Tongatong 03 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_03_Open_den(3).wav,tongatong,Tongatong 03 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_03_Open_den(4).wav,tongatong,Tongatong 03 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_03_Open_den(5).wav,tongatong,Tongatong 03 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_03_Open_den(6).wav,tongatong,Tongatong 03 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_03_Open_den(7).wav,tongatong,Tongatong 03 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_03_Open_den(8).wav,tongatong,Tongatong 03 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Closed_den(2).wav,tongatong,Tongatong 04 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Closed_den(3).wav,tongatong,Tongatong 04 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Closed_den(4).wav,tongatong,Tongatong 04 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Closed_den(5).wav,tongatong,Tongatong 04 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Closed_den(6).wav,tongatong,Tongatong 04 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Closed_den(7).wav,tongatong,Tongatong 04 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Open_den(2).wav,tongatong,Tongatong 04 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Open_den(3).wav,tongatong,Tongatong 04 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Open_den(4).wav,tongatong,Tongatong 04 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Open_den(5).wav,tongatong,Tongatong 04 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Open_den(6).wav,tongatong,Tongatong 04 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Open_den(7).wav,tongatong,Tongatong 04 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Open_den(8).wav,tongatong,Tongatong 04 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_04_Open_den(9).wav,tongatong,Tongatong 04 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Closed_den(2).wav,tongatong,Tongatong 05 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Closed_den(3).wav,tongatong,Tongatong 05 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Closed_den(4).wav,tongatong,Tongatong 05 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Closed_den(5).wav,tongatong,Tongatong 05 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Closed_den(6).wav,tongatong,Tongatong 05 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Closed_den(7).wav,tongatong,Tongatong 05 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Closed_den(8).wav,tongatong,Tongatong 05 Closed den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Open_den(2).wav,tongatong,Tongatong 05 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Open_den(3).wav,tongatong,Tongatong 05 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Open_den(4).wav,tongatong,Tongatong 05 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Open_den(5).wav,tongatong,Tongatong 05 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Open_den(6).wav,tongatong,Tongatong 05 Open den,TRAIN,,
+project_pamana\01_data\raw_audio\Tongatong_05_Open_den(7).wav,tongatong,Tongatong 05 Open den,TRAIN,,
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_0_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_1_Agung_Gong_02_den_A1-23(05).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(05).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_2_Agung_Gong_02_den_A1-23(11).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_3_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_4_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_5_Agung_Gong_02_den_A1-23(11).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_6_Agung_Gong_02_den_A1-23(06).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(06).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_7_Agung_Gong_02_den_A1-23(04).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(04).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_8_Agung_Gong_02_den_A1-23(04).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(04).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_9_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_10_Agung_Gong_02_den_A1-23(07).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_11_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_12_Agung_Gong_02_den_A1-23(08).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(08).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_13_Agung_Gong_02_den_A1-23(07).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_14_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_15_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_16_Agung_Gong_02_den_A1-23(08).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(08).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_17_Agung_Gong_02_den_A1-23(07).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_18_Agung_Gong_02_den_A1-23(06).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(06).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_19_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_20_Agung_Gong_02_den_A1-23(05).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(05).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_21_Agung_Gong_02_den_A1-23(11).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_22_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_23_Agung_Gong_02_den_A1-23(07).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_24_Agung_Gong_02_den_A1-23(07).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_25_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_26_Agung_Gong_02_den_A1-23(11).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_27_Agung_Gong_02_den_A1-23(08).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(08).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_28_Agung_Gong_02_den_A1-23(05).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(05).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_29_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_30_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_31_Agung_Gong_02_den_A1-23(08).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(08).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_32_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_33_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_34_Agung_Gong_02_den_A1-23(11).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_35_Agung_Gong_02_den_A1-23(07).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_36_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_37_Agung_Gong_02_den_A1-23(06).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(06).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_38_Agung_Gong_02_den_A1-23(11).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_39_Agung_Gong_02_den_A1-23(06).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(06).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_40_Agung_Gong_02_den_A1-23(05).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(05).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_41_Agung_Gong_02_den_A1-23(11).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_42_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_43_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_44_Agung_Gong_02_den_A1-23(06).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(06).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_45_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_46_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_47_Agung_Gong_02_den_A1-23(04).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(04).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_48_Agung_Gong_02_den_A1-23(11).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_49_Agung_Gong_02_den_A1-23(08).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(08).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_50_Agung_Gong_02_den_A1-23(05).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(05).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_51_Agung_Gong_02_den_A1-23(07).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_52_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_53_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_54_Agung_Gong_02_den_A1-23(05).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(05).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_55_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_56_Agung_Gong_02_den_A1-23(07).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_57_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_58_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_59_Agung_Gong_02_den_A1-23(08).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(08).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_60_Agung_Gong_02_den_A1-23(08).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(08).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_61_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_62_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_63_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_64_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_65_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_66_Agung_Gong_02_den_A1-23(10).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_67_Agung_Gong_02_den_A1-23(03).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_68_Agung_Gong_02_den_A1-23(02).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_agung_69_Agung_Gong_02_den_A1-23(05).wav,agung,Agung Gong 02 den A1-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(05).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_agung_70_Agung_Gong_02_den_A1-23(05).wav,agung,Agung Gong 02 den A1-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Agung_Gong_02_den_A1-23(05).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_0_Dabakan_Drum_Head_den(7).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_1_Dabakan_Hits_den(2).wav,dabakan,Dabakan Hits den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Hits_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_2_Dabakan_Hits_den(3).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_3_Dabakan_Shell_Hit_den(5).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_4_Dabakan_Drum_Head_den(8).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_5_Dabakan_Shell_Hit_den(6).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_6_Dabakan_Hits_den(4).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_7_Dabakan_Shell_Hit_den(4).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_8_Dabakan_Drum_Head_den(3).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_9_Dabakan_Drum_Head_den(7).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_10_Dabakan_Drum_Head_den(9).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_11_Dabakan_Shell_Hit_den(6).wav,dabakan,Dabakan Shell Hit den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_12_Dabakan_Shell_Hit_den(7).wav,dabakan,Dabakan Shell Hit den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_13_Dabakan_Shell_Hit_den(6).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_14_Dabakan_Drum_Head_den(8).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_15_Dabakan_Hits_den(2).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_16_Dabakan_Hits_den(3).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_17_Dabakan_Drum_Head_den(4).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_18_Dabakan_Shell_Hit_den(6).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_19_Dabakan_Drum_Head_den(8).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_20_Dabakan_Hits_den(5).wav,dabakan,Dabakan Hits den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Hits_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_21_Dabakan_Hits_den(5).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_22_Dabakan_Shell_Hit_den(5).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_23_Dabakan_Shell_Hit_den(8).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_24_Dabakan_Shell_Hit_den(5).wav,dabakan,Dabakan Shell Hit den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_25_Dabakan_Drum_Head_den(6).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_26_Dabakan_Shell_Hit_den(5).wav,dabakan,Dabakan Shell Hit den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_27_Dabakan_Drum_Head_den(8).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_28_Dabakan_Shell_Hit_den(8).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_29_Dabakan_Hits_den(2).wav,dabakan,Dabakan Hits den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Hits_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_30_Dabakan_Drum_Head_den(4).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_31_Dabakan_Drum_Head_den(3).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_32_Dabakan_Shell_Hit_den(8).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_33_Dabakan_Shell_Hit_den(2).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_34_Dabakan_Drum_Head_den(2).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_35_Dabakan_Drum_Head_den(6).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_36_Dabakan_Shell_Hit_den(6).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_37_Dabakan_Drum_Head_den(3).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_38_Dabakan_Drum_Head_den(3).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_39_Dabakan_Drum_Head_den(9).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_40_Dabakan_Shell_Hit_den(5).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_41_Dabakan_Shell_Hit_den(7).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_42_Dabakan_Drum_Head_den(9).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_43_Dabakan_Drum_Head_den(7).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_44_Dabakan_Hits_den(4).wav,dabakan,Dabakan Hits den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Hits_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_45_Dabakan_Shell_Hit_den(9).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_46_Dabakan_Hits_den(2).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_47_Dabakan_Hits_den(6).wav,dabakan,Dabakan Hits den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Hits_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_48_Dabakan_Drum_Head_den(9).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_49_Dabakan_Hits_den(5).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_50_Dabakan_Drum_Head_den(9).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_51_Dabakan_Hits_den(6).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_52_Dabakan_Hits_den(2).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_53_Dabakan_Shell_Hit_den(9).wav,dabakan,Dabakan Shell Hit den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Shell_Hit_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_54_Dabakan_Drum_Head_den(2).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_dabakan_55_Dabakan_Drum_Head_den(7).wav,dabakan,Dabakan Drum Head den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_56_Dabakan_Drum_Head_den(3).wav,dabakan,Dabakan Drum Head den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Drum_Head_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_dabakan_57_Dabakan_Hits_den(4).wav,dabakan,Dabakan Hits den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Dabakan_Hits_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_0_Gandingan_Gong_01_den_C#2-23(5).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_1_Gandingan_Gong_02_den_C#2+50(3).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_2_Gandingan_Gong_03_den_E2+30(04).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(04).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_3_Gandingan_Gong_03_den_E2+30(11).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_4_Gandingan_Gong_01_den_C#2-23(8).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_5_Gandingan_Gong_03_den_E2+30(09).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(09).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_6_Gandingan_Gong_03_den_E2+30(09).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(09).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_7_Gandingan_Gong_02_den_C#2+50(4).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_8_Gandingan_Gong_02_den_C#2+50(5).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_9_Gandingan_Gong_01_den_C#2-23(6).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_10_Gandingan_Gong_02_den_C#2+50(7).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_11_Gandingan_Gong_03_den_E2+30(07).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_12_Gandingan_Gong_01_den_C#2-23(2).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_13_Gandingan_Gong_03_den_E2+30(06).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(06).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_14_Gandingan_Gong_03_den_E2+30(02).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_15_Gandingan_Gong_03_den_E2+30(03).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_16_Gandingan_Gong_03_den_E2+30(11).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_17_Gandingan_Gong_03_den_E2+30(04).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(04).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_18_Gandingan_Gong_01_den_C#2-23(4).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_19_Gandingan_Gong_03_den_E2+30(09).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(09).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_20_Gandingan_Gong_01_den_C#2-23(6).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_21_Gandingan_Gong_03_den_E2+30(03).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_22_Gandingan_Gong_03_den_E2+30(02).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_23_Gandingan_Gong_01_den_C#2-23(8).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_24_Gandingan_Gong_02_den_C#2+50(7).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_25_Gandingan_Gong_01_den_C#2-23(2).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_26_Gandingan_Gong_01_den_C#2-23(5).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_27_Gandingan_Gong_03_den_E2+30(10).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(10).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_28_Gandingan_Gong_02_den_C#2+50(2).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_29_Gandingan_Gong_01_den_C#2-23(6).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_30_Gandingan_Gong_03_den_E2+30(05).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(05).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_31_Gandingan_Gong_03_den_E2+30(02).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_32_Gandingan_Gong_03_den_E2+30(04).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(04).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_33_Gandingan_Gong_03_den_E2+30(02).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_34_Gandingan_Gong_03_den_E2+30(03).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_35_Gandingan_Gong_03_den_E2+30(08).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(08).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_36_Gandingan_Gong_03_den_E2+30(03).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_37_Gandingan_Gong_01_den_C#2-23(4).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_38_Gandingan_Gong_02_den_C#2+50(5).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_39_Gandingan_Gong_01_den_C#2-23(6).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_40_Gandingan_Gong_01_den_C#2-23(6).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_41_Gandingan_Gong_02_den_C#2+50(8).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_42_Gandingan_Gong_01_den_C#2-23(3).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_43_Gandingan_Gong_03_den_E2+30(06).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(06).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_44_Gandingan_Gong_03_den_E2+30(06).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(06).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_45_Gandingan_Gong_02_den_C#2+50(6).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_46_Gandingan_Gong_02_den_C#2+50(8).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_47_Gandingan_Gong_03_den_E2+30(07).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_48_Gandingan_Gong_02_den_C#2+50(3).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_49_Gandingan_Gong_02_den_C#2+50(5).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_50_Gandingan_Gong_03_den_E2+30(11).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(11).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_51_Gandingan_Gong_01_den_C#2-23(6).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_52_Gandingan_Gong_02_den_C#2+50(7).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_gandingan_53_Gandingan_Gong_01_den_C#2-23(4).wav,gandingan,Gandingan Gong 01 den C#2-23,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Gandingan_Gong_01_den_C#2-23(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_54_Gandingan_Gong_03_den_E2+30(02).wav,gandingan,Gandingan Gong 03 den E2+30,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_03_den_E2+30(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_gandingan_55_Gandingan_Gong_02_den_C#2+50(5).wav,gandingan,Gandingan Gong 02 den C#2+50,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Gandingan_Gong_02_den_C#2+50(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_0_Kulintang_Gong_06_den(6).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_1_Kulintang_Gong_06_den(7).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_2_Kulintang_Gong_02_den(2).wav,kulintang,Kulintang Gong 02 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_3_Kulintang_Gong_06_den(5).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_4_Kulintang_Gong_07_den(7).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_5_Kulintang_Gong_02_den(9).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_6_Kulintang_Gong_02_den(6).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_7_Kulintang_Gong_02_den(5).wav,kulintang,Kulintang Gong 02 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_8_Kulintang_Gong_06_den(2).wav,kulintang,Kulintang Gong 06 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_9_Kulintang_Gong_07_den(6).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_10_Kulintang_Gong_02_den(7).wav,kulintang,Kulintang Gong 02 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_11_Kulintang_Gong_02_den(2).wav,kulintang,Kulintang Gong 02 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_12_Kulintang_Gong_06_den(6).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_13_Kulintang_Gong_02_den(4).wav,kulintang,Kulintang Gong 02 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_14_Kulintang_Gong_02_den(9).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_15_Kulintang_Gong_07_den(8).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_16_Kulintang_Gong_07_den(5).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_17_Kulintang_Gong_06_den(7).wav,kulintang,Kulintang Gong 06 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_18_Kulintang_Gong_07_den(7).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_19_Kulintang_Gong_07_den(2).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_20_Kulintang_Gong_07_den(7).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_21_Kulintang_Gong_02_den(6).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_22_Kulintang_Gong_07_den(7).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_23_Kulintang_Gong_07_den(4).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_24_Kulintang_Gong_07_den(5).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_25_Kulintang_Gong_02_den(4).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_26_Kulintang_Gong_06_den(8).wav,kulintang,Kulintang Gong 06 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_27_Kulintang_Gong_06_den(4).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_28_Kulintang_Gong_02_den(7).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_29_Kulintang_Gong_06_den(2).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_30_Kulintang_Gong_06_den(2).wav,kulintang,Kulintang Gong 06 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_31_Kulintang_Gong_02_den(8).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_32_Kulintang_Gong_07_den(2).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_33_Kulintang_Gong_07_den(2).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_34_Kulintang_Gong_02_den(2).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_35_Kulintang_Gong_02_den(9).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(9).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_36_Kulintang_Gong_07_den(2).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_37_Kulintang_Gong_07_den(4).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_38_Kulintang_Gong_06_den(2).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_39_Kulintang_Gong_02_den(8).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_40_Kulintang_Gong_02_den(7).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_41_Kulintang_Gong_06_den(2).wav,kulintang,Kulintang Gong 06 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_42_Kulintang_Gong_07_den(3).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_43_Kulintang_Gong_02_den(8).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_44_Kulintang_Gong_06_den(3).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_45_Kulintang_Gong_06_den(2).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_46_Kulintang_Gong_06_den(3).wav,kulintang,Kulintang Gong 06 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_47_Kulintang_Gong_07_den(2).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_48_Kulintang_Gong_06_den(3).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_49_Kulintang_Gong_02_den(7).wav,kulintang,Kulintang Gong 02 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_50_Kulintang_Gong_07_den(2).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_51_Kulintang_Gong_07_den(2).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_52_Kulintang_Gong_02_den(3).wav,kulintang,Kulintang Gong 02 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_02_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_53_Kulintang_Gong_06_den(3).wav,kulintang,Kulintang Gong 06 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_54_Kulintang_Gong_07_den(4).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_kulintang_55_Kulintang_Gong_07_den(6).wav,kulintang,Kulintang Gong 07 den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_56_Kulintang_Gong_06_den(8).wav,kulintang,Kulintang Gong 06 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_06_den(8).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_kulintang_57_Kulintang_Gong_07_den(5).wav,kulintang,Kulintang Gong 07 den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Kulintang_Gong_07_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_0_Tongatong_04_Open_den(6).wav,tongatong,Tongatong 04 Open den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_04_Open_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_1_Tongatong_02_Closed_den(02).wav,tongatong,Tongatong 02 Closed den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(02).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_2_Tongatong_02_Closed_den(09).wav,tongatong,Tongatong 02 Closed den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(09).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_3_Tongatong_02_Open_den(2).wav,tongatong,Tongatong 02 Open den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_02_Open_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_4_Tongatong_01_Open_den(2).wav,tongatong,Tongatong 01 Open den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_01_Open_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_5_Tongatong_04_Closed_den(3).wav,tongatong,Tongatong 04 Closed den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_04_Closed_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_6_Tongatong_05_Closed_den(4).wav,tongatong,Tongatong 05 Closed den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_05_Closed_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_7_Tongatong_01_Open_den(6).wav,tongatong,Tongatong 01 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_01_Open_den(6).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_8_Tongatong_05_Open_den(2).wav,tongatong,Tongatong 05 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_05_Open_den(2).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_9_Tongatong_05_Open_den(3).wav,tongatong,Tongatong 05 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_05_Open_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_10_Tongatong_04_Closed_den(7).wav,tongatong,Tongatong 04 Closed den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_04_Closed_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_11_Tongatong_02_Open_den(4).wav,tongatong,Tongatong 02 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_02_Open_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_12_Tongatong_02_Closed_den(06).wav,tongatong,Tongatong 02 Closed den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(06).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_13_Tongatong_05_Open_den(4).wav,tongatong,Tongatong 05 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_05_Open_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_14_Tongatong_02_Closed_den(03).wav,tongatong,Tongatong 02 Closed den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(03).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_15_Tongatong_03_Open_den(5).wav,tongatong,Tongatong 03 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_03_Open_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_16_Tongatong_04_Closed_den(4).wav,tongatong,Tongatong 04 Closed den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_04_Closed_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_17_Tongatong_03_Open_den(7).wav,tongatong,Tongatong 03 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_03_Open_den(7).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_18_Tongatong_01_Open_den(3).wav,tongatong,Tongatong 01 Open den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_01_Open_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_19_Tongatong_05_Open_den(5).wav,tongatong,Tongatong 05 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_05_Open_den(5).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_20_Tongatong_01_Open_den(3).wav,tongatong,Tongatong 01 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_01_Open_den(3).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_time_stretch_tongatong_21_Tongatong_02_Open_den(4).wav,tongatong,Tongatong 02 Open den,TRAIN,time_stretch,project_pamana\01_data\raw_audio\Tongatong_02_Open_den(4).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_22_Tongatong_02_Closed_den(07).wav,tongatong,Tongatong 02 Closed den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_02_Closed_den(07).wav
+c:/Users/Paulo/Documents/Project_pamana_ML/project_pamana/02_features/augmented_data/aug_pitch_shift_tongatong_23_Tongatong_02_Open_den(4).wav,tongatong,Tongatong 02 Open den,TRAIN,pitch_shift,project_pamana\01_data\raw_audio\Tongatong_02_Open_den(4).wav
